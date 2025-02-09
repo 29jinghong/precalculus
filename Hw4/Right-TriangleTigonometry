@@ -1,0 +1,22 @@
+Arc Length Example
+The formula for arc length (s) of a circle is:
+
+s=rθ
+where:
+s = arc length
+
+r = radius of the circle
+
+θ = central angle in radians
+
+Example Problem:
+A circle has a radius of 10 cm, and the central angle is 𝜋/3 radians. Find the arc length.
+
+Solution
+Using the formula:
+s=rθ
+𝑠 = 10 × 𝜋/3
+
+𝑠 = 10𝜋/3
+
+So, the arc length is 10𝜋/3 cm, or approximately 10.47 cm.
