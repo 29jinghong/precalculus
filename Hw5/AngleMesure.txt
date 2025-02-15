@@ -1,0 +1,35 @@
+Angle Measures in Precalculus
+Angles can be measured in degrees or radians.
+
+1. Degrees vs. Radians
+Degrees: A full circle is 360°.
+Radians: A full circle is 2π radians.
+The conversion formulas are:
+
+1∘= 𝜋/180 radians
+
+1 radian = 180/𝜋
+
+2. Converting Between Degrees and Radians
+Example 1: Convert 45∘ to radians
+
+45∘ × 𝜋/180 = 𝜋/4 radians
+
+Example 2: Convert 5𝜋/6 radians to degrees
+
+5𝜋/6 × 180/𝜋 =150∘
+
+3. Coterminal Angles
+Coterminal angles share the same terminal side and can be found by adding or subtracting 360∘ (or 2π radians).
+
+Example: Find a positive and negative coterminal angle for 60∘
+
+Positive:
+60∘ + 360∘ = 420∘
+
+Negative:
+60∘ − 360∘ = −300∘
+
+4. Complementary and Supplementary Angles
+Complementary: Two angles that sum to 90∘ (or 𝜋/2 radians).
+Supplementary: Two angles that sum to 180∘(or π radians).
