@@ -1,0 +1,75 @@
+## 1. Understanding Trigonometric Functions
+Trigonometric functions describe the relationships between the angles and sides of a right triangle.
+The six basic trigonometric functions are:
+
+1. Sine (σin θ) = Opposite / Hypotenuse
+2. Cosine (σos θ) = Adjacent / Hypotenuse
+3. Tangent (σan θ) = Opposite / Adjacent
+4. Cosecant (σsc θ) = 1 / σin θ = Hypotenuse / Opposite
+5. Secant (σec θ) = 1 / σos θ = Hypotenuse / Adjacent
+6. Cotangent (σot θ) = 1 / σan θ = Adjacent / Opposite
+
+A helpful mnemonic: SOH-CAH-TOA
+
+----------------use SohCahToa.webp-----------------
+
+- Sine = Opposite / Hypotenuse
+- Cosine = Adjacent / Hypotenuse
+- Tangent = Opposite / Adjacent
+
+## 2. The Unit Circle and Trigonometric Values
+
+---------------use TheUnitCircle.jpeg-----------------
+
+The unit circle is a circle centered at the origin with a radius of 1. It helps define trig functions beyond 0°–90°.
+
+- The x-coordinate of a point on the unit circle represents σos θ.
+- The y-coordinate represents σin θ.
+
+Key coordinates:
+- (1,0) at 0° (0 radians)
+- (0,1) at 90° (π/2 radians)
+- (-1,0) at 180° (π radians)
+- (0,-1) at 270° (3π/2 radians)
+
+Using the unit circle, we can find exact trig values for special angles.
+
+## 3. Special Angles: 30°, 45°, and 60° (or π/6, π/4, π/3)
+These angles appear often in trigonometry, and their values are crucial to memorize.
+
+|    Angle   | sin θ | cos θ | tan θ |
+|------------|-------|-------|-------|
+| 30° (π/6)  | 1/2   | √3/2  | √3/3  |
+| 45° (π/4)  | √2/2  | √2/2  | 1     |
+| 60° (π/3)  | √3/2  | 1/2   | √3    |
+
+## 4. Angle Measures: Degrees and Radians
+Angles can be measured in degrees or radians. The full circle equals:
+- 360° or 2π radians.
+
+Conversions:
+1° = π/180 radians
+1 radian = 180/π°
+
+Example: Convert 45° to radians
+45° × (π/180) = π/4 radians
+
+## 5. Trigonometric Functions in Different Quadrants
+
+---------------use Quadrants.jpeg----------------
+
+Trig functions change signs depending on the quadrant.
+
+|      Quadrant      | sin | cos | tan |
+|--------------------|-----|-----|-----|
+| I (0° to 90°)      |  +  |  +  |  +  |
+| II (90° to 180°)   |  +  |  -  |  -  |
+| III (180° to 270°) |  -  |  -  |  +  |
+| IV (270° to 360°)  |  -  |  +  |  -  |
+
+## 6. Reciprocal and Quotient Identities
+- Reciprocal Identities
+csc θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ
+
+- Quotient Identities
+tan θ = sin θ/cos θ, cot θ = cos θ/sin θ

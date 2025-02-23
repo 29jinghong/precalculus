@@ -6,9 +6,11 @@ Degrees: A full circle is 360°.
 Radians: A full circle is 2π radians.
 The conversion formulas are:
 
-1∘= 𝜋/180 radians
+converting degrees to radians
+1∘ = 𝜋/180 radians
 
-1 radian = 180/𝜋
+converting radians to degrees
+1 radian = 180/𝜋 degrees
 
 2. Converting Between Degrees and Radians
 Example 1: Convert 45∘ to radians
