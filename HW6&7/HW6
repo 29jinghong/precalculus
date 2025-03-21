@@ -73,3 +73,24 @@ csc θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ
 
 - Quotient Identities
 tan θ = sin θ/cos θ, cot θ = cos θ/sin θ
+
+## 7. Pythagorean identities
+sin^2 𝜃 + cos^2 𝜃 = 1
+
+//prove the blow useing pytahorean theorm
+1 + tan^2 𝜃 = sec^2 𝜃
+1 + cot^2 𝜃 = csc^2 𝜃
+
+## 8. Graphing Trigonometric Functions
+Key graphs:
+Sine and Cosine: Wave-like, periodic, with amplitude and frequency.
+Tangent: Has vertical asymptotes.
+𝑦 = 𝑎 sin(𝑏𝑥+𝑐)+𝑑
+
+a = Amplitude
+
+b = Affects period 2𝜋/𝑏
+
+c = Phase shift
+
+d = Vertical shift
